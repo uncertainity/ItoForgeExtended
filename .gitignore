@@ -1,1 +1,4 @@
-external/
+.vscode/
+*.csv
+*.log
+test
